@@ -3,7 +3,8 @@ import posts from './posts.js';
 import users from './users.js';
 let rootRouter = Router();
 
-rootRouter.use('/post',posts);
-rootRouter.use('/user',users);
+
+rootRouter.use('/v1/post',posts);
+rootRouter.use('/v1/user',users);
 
 export default rootRouter;
