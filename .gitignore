@@ -1,3 +1,5 @@
-/app/node_modules
+/api/node_modules
 /server/node_modules
 /client/node_modules
+/apiMySQL/node_modules
+/starter-node-es6/node_modules

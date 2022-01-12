@@ -1,0 +1,11 @@
+{
+  "PORT": 5672,
+  "EXTERNAL_IP": "10.1.0.86",
+  "INTERNAL_IP": "10.1.0.86",
+  "LOCAL": "localhost",
+  "USER": "admin",
+  "PASSWORD": "admin",
+  "VIRTUAL_HOST": "bzinga_qa",
+  "SHOW_SOURCE_IN_LOGS": true,
+  "QUEUE": "notification-queue"
+}

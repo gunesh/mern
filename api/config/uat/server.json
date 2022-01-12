@@ -1,0 +1,16 @@
+{
+  "PORT": 3000,
+  "EXTERNAL_IP": "0.0.0.0",
+  "INTERNAL_IP": "0.0.0.0",
+  "LOCAL": "localhost",
+  "LOGLEVEL": "DEBUG",
+  "LOGLEVEL_NUMBER": 50,
+  "SHOW_SOURCE_IN_LOGS": true,
+  "JWT_SECRET": "BiD2wIn@@2019$$",
+  "JWT_EXPIRY": "30d",
+  "EZMALL_PRODUCTS_URL": "http://35.154.234.162:42858/ezmallBid/products",
+  "EZMALL_APIKEY_KEYNAME": "ApiKey",
+  "EZMALL_APIKEY_VALUE": "ca72b2f3-72dd-4503-837a-cb58f61279fb",
+  "EZMALL_SENDERID_KEYNAME": "SenderId",
+  "EZMALL_SENDERID_VALUE": "bidding" 
+}

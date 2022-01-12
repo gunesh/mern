@@ -1,0 +1,6 @@
+{
+  "DEFAULT_PAGE_LIMIT": 1000,
+  "DEFAULT_LOCATION": "Kerala",
+  "CRON_URL": "https://api.bzinga.com"
+  
+}

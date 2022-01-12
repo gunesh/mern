@@ -1,0 +1,5 @@
+{
+  "DEFAULT_PAGE_LIMIT": 1000,
+  "DEFAULT_LOCATION": "Kerala",
+  "CRON_URL": "uat.bzinga.com"
+}

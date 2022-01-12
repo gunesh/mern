@@ -1,0 +1,1 @@
+sequelize-auto -h 13.233.24.84 -d bid2win -u root -p 26257  --dialect postgres -o "./models" -t cms_roles -C

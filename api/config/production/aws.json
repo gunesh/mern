@@ -1,0 +1,11 @@
+{
+  "SECRETKEY": "F/ly6Haeo821iKPNaaoUxGRSMifzO7psZEbWH43l", 
+  "ACCESSKEY": "AKIASSMNJXY26FRWTWGR",
+  "REGION": "ap-south-1",
+  "S3_PROFILE_BUCKET_NAME": "bzinga.cms.data",
+  "S3_BUCKET_NAME": "bzinga.cms.data",
+  "INVOICE_S3_BUCKET_NAME": "bzinga.invoice.data",
+  "INVOICE_S3_REGION": "ap-south-1",
+  "INVOICE_S3_SECRET_KEY": "F/ly6Haeo821iKPNaaoUxGRSMifzO7psZEbWH43l",
+  "INVOICE_S3_ACCESS_KEY": "AKIASSMNJXY26FRWTWGR"
+}
