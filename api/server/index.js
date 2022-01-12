@@ -9,7 +9,7 @@ global.config = require('../config/config').getConfiguration();
 global.logger = require('../lib/v1/utils/logger').getLogger('CMSAPIModule', config.server.LOGLEVEL);
 global.errorCodes = require('../utils/error_codes.json');
 global.events = new EventEmitter();
-
+  
 
 const app = express();
 app.use(bodyParser.json());
